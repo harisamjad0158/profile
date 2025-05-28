@@ -4,7 +4,7 @@
 
 **AWS | Azure | Kubernetes | Terraform | CI/CD Automation**
 
-Passionate DevOps Engineer with 5+ years of experience designing cloud-native solutions and optimizing infrastructure. Currently pursuing MSc in Embedded Systems at Hochschule Bremerhaven.
+Passionate DevOps Engineer with 5+ years of experience designing cloud-native solutions, web development, and optimizing infrastructure, and currently pursuing MSc in Embedded Systems at Hochschule Bremerhaven.
 
 ## 🛠️ Technical Expertise
 
@@ -44,7 +44,6 @@ Passionate DevOps Engineer with 5+ years of experience designing cloud-native so
 
 ## 📌 Certifications
 - AWS Certified Solutions Architect
-- [Certified Kubernetes Administrator] (In Progress)
 
 ## 📈 GitHub Stats
 [![Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harisamjad0158&show_icons=true&theme=radical)](https://github.com/harisamjad0158)
@@ -52,5 +51,5 @@ Passionate DevOps Engineer with 5+ years of experience designing cloud-native so
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisamjad0158&layout=compact&theme=radical)](https://github.com/harisamjad0158)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/haris-amjad-a26b4a109)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=microsoft-outlook)](mailto:haris.amjad@hotmail.com)
