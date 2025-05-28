@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I am a passionate DevOps Engineer and Cloud Specialist with hands-on experience in cloudnative<br>solutions, IaC, web development and optimization. I continuously strive to expand my<br>technical expertise and stay up to date with evolving technologies. Highly motivated and eager<br>to learn, I would welcome the opportunity to contribute and grow within your organization.
+I am a passionate DevOps Engineer and Cloud Specialist with hands-on experience in cloudnative<br>solutions, IaC, web development and optimization. I continuously strive to expand my<br>technical expertise and stay up to date with evolving technologies. Highly motivated and eager<br>to learn DevOps.
 
 📍 **Bremen, Germany** | 📞 +49 157 54399134 | ✉️ [haris.amjad@hotmail.com](mailto:haris.amjad@hotmail.com)
 
