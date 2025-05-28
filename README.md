@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Haris Amjad | DevOps & Cloud Specialist
 
-📍 **Bremen, Germany** | 📞 +49 157 54399134 | ✉️ [haris.amjad@hotmail.com](mailto:haris.amjad@hotmail.com)
 
-**AWS | Azure | Kubernetes | Terraform | CI/CD Automation**
 
 # 💫 About Me:
 I am a passionate DevOps Engineer and Cloud Specialist with hands-on experience in cloudnative<br>solutions, IaC, web development and optimization. I continuously strive to expand my<br>technical expertise and stay up to date with evolving technologies. Highly motivated and eager<br>to learn, I would welcome the opportunity to contribute and grow within your organization.
 
+📍 **Bremen, Germany** | 📞 +49 157 54399134 | ✉️ [haris.amjad@hotmail.com](mailto:haris.amjad@hotmail.com)
+
+** Skills: AWS | Azure | Kubernetes | Terraform | CI/CD Automation**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/haris-amjad-a26b4a109) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haris.amjad@hotmail.com) 
