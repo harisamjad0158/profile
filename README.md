@@ -1,56 +1,56 @@
-# Hi there 👋 I'm Haris Amjad
+# 👋 Hi, I'm Haris Amjad | DevOps & Cloud Specialist
 
-**Cloud | DevOps | Kubernetes Engineer**
+📍 **Bremen, Germany** | 📞 +49 157 54399134 | ✉️ [haris.amjad@hotmail.com](mailto:haris.amjad@hotmail.com)
 
-Passionate about building scalable cloud infrastructure, automating deployments, and optimizing CI/CD pipelines. Currently focused on Kubernetes, AWS, and infrastructure-as-code solutions.
+**AWS | Azure | Kubernetes | Terraform | CI/CD Automation**
 
-## 🛠️ Technical Skills
+Passionate DevOps Engineer with 5+ years of experience designing cloud-native solutions and optimizing infrastructure. Currently pursuing MSc in Embedded Systems at Hochschule Bremerhaven.
 
-- **Cloud Platforms**: AWS, GCP, Azure
-- **Containerization**: Docker, Kubernetes, ECS
-- **Infrastructure as Code**: Terraform, Ansible, CloudFormation
-- **CI/CD**: Jenkins, GitHub Actions, ArgoCD
-- **Monitoring**: Prometheus, Grafana, ELK Stack
-- **Scripting**: Python, Bash, PowerShell
-- **Databases**: MySQL, MongoDB, PostgreSQL
+## 🛠️ Technical Expertise
 
-## 🔧 Recent Projects
+**Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) 
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure)
 
-### [Kubernetes Multi-Cluster Management](https://github.com/your-repo)
-- Implemented cross-cluster networking with Istio
-- Automated scaling with KEDA
-- Reduced deployment times by 40%
+**Infrastructure as Code**  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform) 
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible)
 
-### [AWS Serverless Microservices](https://github.com/your-repo)
-- Built using Lambda, API Gateway, DynamoDB
-- Terraform for infrastructure provisioning
-- CI/CD pipeline with GitHub Actions
+**CI/CD & Containers**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
 
-### [GitOps Deployment Framework](https://github.com/your-repo)
-- ArgoCD for declarative deployments
-- Helm charts for application packaging
-- Policy-as-code with OPA Gatekeeper
+**Monitoring & Security**  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana) 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
+
+## 🚀 Featured Projects
+
+### [Production-Grade CI/CD Pipeline](https://github.com/your-repo)
+- Built with AWS EC2, Jenkins, SonarQube, Trivy, Nexus, Terraform
+- Achieved 40% faster deployment cycles
+- Kubernetes cluster automation
+
+### [Kubernetes Java Application Deployment](https://github.com/your-repo)
+- Full-stack monitoring with Grafana
+- Gmail alert integration
+- Maven/Nexus artifact management
+
+### [Two-Tier Flask App with Helm](https://github.com/your-repo)
+- Dockerized Python/MySQL application
+- Helm charts for deployment templating
+- PersistentVolumeClaims for stateful data
+
+## 📌 Certifications
+- AWS Certified Solutions Architect
+- [Certified Kubernetes Administrator] (In Progress)
 
 ## 📈 GitHub Stats
+[![Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harisamjad0158&show_icons=true&theme=radical)](https://github.com/harisamjad0158)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=harisamjad0158&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisamjad0158&layout=compact)
-
-## 🏆 Certifications
-
-- Certified Kubernetes Administrator (CKA)
-- AWS Certified Solutions Architect
-- Terraform Associate
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisamjad0158&layout=compact&theme=radical)](https://github.com/harisamjad0158)
 
 ## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-
-## 📝 Latest Blog Posts
-
-- [Kubernetes Networking Deep Dive](https://yourblog.com)
-- [Terraform Best Practices](https://yourblog.com)
-- [CI/CD Pipeline Security](https://yourblog.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=microsoft-outlook)](mailto:haris.amjad@hotmail.com)
