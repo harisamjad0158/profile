@@ -7,7 +7,7 @@ I am a passionate DevOps Engineer and Cloud Specialist with hands-on experience 
 
 📍 **Bremen, Germany** | 📞 +49 157 54399134 | ✉️ [haris.amjad@hotmail.com](mailto:haris.amjad@hotmail.com)
 
-** Skills: AWS | Azure | Kubernetes | Terraform | CI/CD Automation**
+** Skills: AWS | Azure | Kubernetes | Terraform | CI/CD Automation | Linux | Pyhton**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:www.linkedin.com/in/haris-amjad-a26b4a109) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haris.amjad@hotmail.com) 
